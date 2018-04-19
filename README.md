@@ -1,5 +1,6 @@
 # BookListing-App
-Simple app searching books in Google Books api by given topic and displaying it for user.If no book of given topic was found app displays message.
+Simple app searching books in Google Books api by given topic and displaying it for user.If no book of given topic was 
+found app displays message.
 Used technologies:
 Permissions for accessing internet connection and checking internet connection state.
 Google Books api for searching for book details.
